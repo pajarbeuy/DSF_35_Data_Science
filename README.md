@@ -1,6 +1,6 @@
 # DSF_35_Data_Science_Portofolio
-## Breast Cancer Diagnostic Classification Using Random Forest Algorithm
-This project is developed as part of Digital Skill Fair (DSF) 35.0 - Data Science by Dibimbing. I am using Wisconsin Breast Cancer Diagnostic Dataset from scikit-learn, which is a classic and very easy binary classification dataset. It has 569 instances, and attributes; including: 30 numeric, predictive attributes and the class. The objective is to build a machine learning model for predicting whether a breast tumor is benign (0) or malignant (1) using Random Forest Algorithm. You can access the dataset through this link: https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer.
+## Breast Cancer Diagnostic Classification Using Decision Tree Algorithm
+This project is developed as part of Digital Skill Fair (DSF) 35.0 - Data Science by Dibimbing. I am using Breast Cancer Diagnostic Dataset from scikit-learn, which is a classic and very easy binary classification dataset. It has 569 instances, and attributes; including: 30 numeric, predictive attributes and the class. The objective is to build a machine learning model for predicting whether a breast tumor is benign (0) or malignant (1) using Random Forest Algorithm. You can access the dataset through this link: https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer.
 
 # Goals:
 
